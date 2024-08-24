@@ -3,3 +3,4 @@
 Automated crypto news aggregator in multiple languages.
 
 News tests.
+
